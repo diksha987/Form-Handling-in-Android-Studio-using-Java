@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NEWSLETTER_REGISTRATION_FORM</string>
+    <string-array name="freq">
+        <item><B>SELECT FREQUENCY</B></item>
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>Quarterly</item>
+    </string-array>
+</resources>
